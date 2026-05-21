@@ -21,13 +21,6 @@ chess/
 └── README.md
 ```
 
-## Installation
-
-**1. Cloner le projet**
-```bash
-git clone https://github.com/ton-username/chess.git
-cd chess
-```
 
 **2. Installer pygame**
 ```bash
